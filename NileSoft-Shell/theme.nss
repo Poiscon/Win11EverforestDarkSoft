@@ -42,11 +42,11 @@ theme
 
 	border
 	{
-		enabled = false
+		enabled = true
 		size = 2
 		color = #D3C6AA
 		opacity = 100
-		radius = 0
+		radius = 6
 	}
 
 	shadow
