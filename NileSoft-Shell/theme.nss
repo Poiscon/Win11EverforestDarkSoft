@@ -14,7 +14,7 @@ theme
 	item
 	{
 		opacity = 100
-		radius = 0
+		
 		prefix = 1
 
 		text
@@ -34,9 +34,9 @@ theme
 
 	font
 	{
-		size = 16
-	 	name = "JetBrainsMono NFP"
-	 	weight = 1
+		size = 14
+	 	name = "Segoe UI Variable Text"
+	 	weight = 3
 	 	italic = 0
 	 }
 
