@@ -14,7 +14,7 @@ theme
 	item
 	{
 		opacity = 100
-		radius = 0
+		
 		prefix = 1
 
 		text
@@ -34,19 +34,19 @@ theme
 
 	font
 	{
-		size = 16
-	 	name = "JetBrainsMono NFP"
-	 	weight = 1
+		size = 14
+	 	name = "Segoe UI Variable Text"
+	 	weight = 3
 	 	italic = 0
 	 }
 
 	border
 	{
-		enabled = false
+		enabled = true
 		size = 2
 		color = #D3C6AA
 		opacity = 100
-		radius = 0
+		radius = 6
 	}
 
 	shadow
@@ -73,7 +73,7 @@ theme
 
 	image
 	{
-		enabled = false
+		enabled = true
 		color = [#D3C6AA, #D3C6AA, #D3C6AA]
 	}
 }
